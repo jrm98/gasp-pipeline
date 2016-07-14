@@ -1,0 +1,14 @@
+The output directory 'results/meme' already exists.
+Its contents will be overwritten.
+w set, setting max and min widths to 14
+Initializing the motif probability tables for 2 to 8 sites...
+nsites = 2nsites = 3nsites = 4nsites = 5nsites = 6nsites = 7nsites = 8
+Done initializing.
+SEEDS: highwater mark: seq 7 pos 700
+BALANCE: samples 8 residues 4615 nodes 1 residues/node 4615
+
+seqs=     8, min= 214, max=  700, total=     4615
+
+motif=1
+SEED WIDTHS: 14
+starts: w=14, seq=0, l=214          starts: w=14, seq=5, l=700          em: w=  14, psites=   2, iter=   0 em: w=  14, psites=   2, iter=  10 em: w=  14, psites=   4, iter=   0 em: w=  14, psites=   4, iter=  10 em: w=  14, psites=   8, iter=   0 

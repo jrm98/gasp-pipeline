@@ -1,0 +1,3 @@
+w=6
+[['CAATGATCAAAGAT', '<br></div>AGCTCTCAACCTCC', '<br></div>TGTTAA']]
+[['CAATGATCAAAGAT', '<br></div>AGCTCTCAACCTCC', '<br></div>TGTTAA'], ['CAATGATCAAAGAT', '<br></div>AGCTCTCAACCTCC', '<br></div>TGTTAA'], ['CAATGATCAAAGAT', '<br></div>AGCTCTCAACCTCC', '<br></div>TGTTAA'], ['CAATGATCAAAGAT', '<br></div>AGCTCTCAACCTCC', '<br></div>TGTTAA'], ['CAATGATCAAAGAT', '<br></div>AGCTCTCAACCTCC', '<br></div>TGTTAA'], ['CAATGATCAAAGAT', '<br></div>AGCTCTCAACCTCC', '<br></div>TGTTAA']]

@@ -1,0 +1,796 @@
+MOTIF:	CTATCATTATTA
+Initial Seed:	ATATTATTATTA
+Flexible Seed Positions: 1, 3
+Likelihood Threshold:	100.00000
+t-score:	2.46350
+Enrichment:	1.55902(log2)
+
+PWM:
+A	C	G	T
+ 0.17	 0.33	 0.17	 0.33	
+ 0.00	 0.00	 0.17	 0.83	
+ 0.50	 0.50	 0.00	 0.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 0.00	 0.50	 0.00	 0.50	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 0.33	 0.00	 0.67	
+ 0.00	 0.00	 0.00	 1.00	
+ 0.83	 0.00	 0.17	 0.00	
+ 0.00	 0.00	 0.33	 0.67	
+ 0.00	 0.00	 0.33	 0.67	
+ 1.00	 0.00	 0.00	 0.00	
+
+
+Positive Sites:
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	35	18807.36
+TTCTCACTATGA
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	512	6910.26
+TTATTATTATTA
+>Sp_mad2_upstream/SPBC20F10.06/II:3294033-3294226	87	15142.14
+GTCTTATTATTA
+>Sp_mad3_upstream/SPCC1795.01c/III:996817-997415	350	5959.50
+CTATTACTGGTA
+>Sp_mad3_upstream/SPCC1795.01c/III:996817-997415	566	23121.19
+CTCTCATTAGGA
+>Sp_mph1_upstream/SPBC106.01/II:373550-373691	70	3541.09
+AGATCATTATTA
+
+
+Negative Sites:
+
+####################
+
+MOTIF:	CTATCATTATTA
+Initial Seed:	GTCTTATTATTA
+Flexible Seed Positions: 1, 3
+Likelihood Threshold:	100.00000
+t-score:	2.46350
+Enrichment:	1.55902(log2)
+
+PWM:
+A	C	G	T
+ 0.17	 0.33	 0.17	 0.33	
+ 0.00	 0.00	 0.17	 0.83	
+ 0.50	 0.50	 0.00	 0.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 0.00	 0.50	 0.00	 0.50	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 0.33	 0.00	 0.67	
+ 0.00	 0.00	 0.00	 1.00	
+ 0.83	 0.00	 0.17	 0.00	
+ 0.00	 0.00	 0.33	 0.67	
+ 0.00	 0.00	 0.33	 0.67	
+ 1.00	 0.00	 0.00	 0.00	
+
+
+Positive Sites:
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	35	18807.36
+TTCTCACTATGA
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	512	6910.26
+TTATTATTATTA
+>Sp_mad2_upstream/SPBC20F10.06/II:3294033-3294226	87	15142.14
+GTCTTATTATTA
+>Sp_mad3_upstream/SPCC1795.01c/III:996817-997415	350	5959.50
+CTATTACTGGTA
+>Sp_mad3_upstream/SPCC1795.01c/III:996817-997415	566	23121.19
+CTCTCATTAGGA
+>Sp_mph1_upstream/SPBC106.01/II:373550-373691	70	3541.09
+AGATCATTATTA
+
+
+Negative Sites:
+
+####################
+
+MOTIF:	TAATAATAAGAA
+Initial Seed:	TAATAATAACAA
+Flexible Seed Positions: 10, 12
+Likelihood Threshold:	100.00000
+t-score:	2.46350
+Enrichment:	1.55902(log2)
+
+PWM:
+A	C	G	T
+ 0.00	 0.00	 0.00	 1.00	
+ 0.67	 0.33	 0.00	 0.00	
+ 0.67	 0.33	 0.00	 0.00	
+ 0.00	 0.17	 0.00	 0.83	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.67	 0.00	 0.33	 0.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 0.50	 0.00	 0.50	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 0.00	 0.50	 0.50	
+ 0.83	 0.17	 0.00	 0.00	
+ 0.33	 0.17	 0.33	 0.17	
+
+
+Positive Sites:
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	35	18807.36
+TCATAGTGAGAA
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	512	6910.26
+TAATAATAATAA
+>Sp_mad2_upstream/SPBC20F10.06/II:3294033-3294226	87	15142.14
+TAATAATAAGAC
+>Sp_mad3_upstream/SPCC1795.01c/III:996817-997415	350	5959.50
+TACCAGTAATAG
+>Sp_mad3_upstream/SPCC1795.01c/III:996817-997415	566	23121.19
+TCCTAATGAGAG
+>Sp_mph1_upstream/SPBC106.01/II:373550-373691	70	3541.09
+TAATAATGATCT
+
+
+Negative Sites:
+
+####################
+
+MOTIF:	TAATAATAAGAA
+Initial Seed:	TAATAATAATAA
+Flexible Seed Positions: 10, 12
+Likelihood Threshold:	100.00000
+t-score:	2.46350
+Enrichment:	1.55902(log2)
+
+PWM:
+A	C	G	T
+ 0.00	 0.00	 0.00	 1.00	
+ 0.67	 0.33	 0.00	 0.00	
+ 0.67	 0.33	 0.00	 0.00	
+ 0.00	 0.17	 0.00	 0.83	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.67	 0.00	 0.33	 0.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 0.50	 0.00	 0.50	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 0.00	 0.50	 0.50	
+ 0.83	 0.17	 0.00	 0.00	
+ 0.33	 0.17	 0.33	 0.17	
+
+
+Positive Sites:
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	35	18807.36
+TCATAGTGAGAA
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	512	6910.26
+TAATAATAATAA
+>Sp_mad2_upstream/SPBC20F10.06/II:3294033-3294226	87	15142.14
+TAATAATAAGAC
+>Sp_mad3_upstream/SPCC1795.01c/III:996817-997415	350	5959.50
+TACCAGTAATAG
+>Sp_mad3_upstream/SPCC1795.01c/III:996817-997415	566	23121.19
+TCCTAATGAGAG
+>Sp_mph1_upstream/SPBC106.01/II:373550-373691	70	3541.09
+TAATAATGATCT
+
+
+Negative Sites:
+
+####################
+
+MOTIF:	AAAAAAAAGAAA
+Initial Seed:	AAAAAAAAGAAA
+Flexible Seed Positions: 7, 10
+Likelihood Threshold:	100.00000
+t-score:	2.77964
+Enrichment:	1.43349(log2)
+
+PWM:
+A	C	G	T
+ 1.00	 0.00	 0.00	 0.00	
+ 0.67	 0.11	 0.00	 0.22	
+ 0.56	 0.00	 0.44	 0.00	
+ 0.89	 0.00	 0.00	 0.11	
+ 0.89	 0.00	 0.11	 0.00	
+ 0.89	 0.00	 0.11	 0.00	
+ 0.56	 0.33	 0.00	 0.11	
+ 0.67	 0.11	 0.00	 0.22	
+ 0.00	 0.00	 1.00	 0.00	
+ 0.78	 0.22	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.89	 0.00	 0.11	 0.00	
+
+
+Positive Sites:
+>Sp_bub1_upstream/SPCC1322.12c/III:1316006-1316336	211	1490.27
+AAAAAATAGCAA
+>Sp_bub3_upstream/SPAC23H3.08c/I:2507594-2507912	54	1906.78
+ATAAAGCAGAAA
+>Sp_bub3_upstream/SPAC23H3.08c/I:2507594-2507912	153	3142.42
+AAAAAACTGAAA
+>Sp_bub3_upstream/SPAC23H3.08c/I:2507594-2507912	190	2417.40
+AAAAGAAAGAAA
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	212	5192.31
+AAAAAAAAGAAA
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	620	6961.52
+AAGAAACTGAAA
+>Sp_mad2_upstream/SPBC20F10.06/II:3294033-3294226	40	1256.03
+ACGTAAAAGCAA
+>Sp_mph1_upstream/SPBC106.01/II:373550-373691	46	4224.94
+AAGAAAAAGAAG
+>Sp_mph1_upstream/SPBC106.01/II:373550-373691	103	3064.85
+ATGAAAACGAAA
+
+
+Negative Sites:
+
+####################
+
+MOTIF:	TAAAAGCTTATA
+Initial Seed:	TAAAAGCTTTTA
+Flexible Seed Positions: 5, 10
+Likelihood Threshold:	200.00000
+t-score:	1.44242
+Enrichment:	1.11156(log2)
+
+PWM:
+A	C	G	T
+ 0.25	 0.00	 0.00	 0.75	
+ 0.50	 0.00	 0.00	 0.50	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.75	 0.00	 0.25	 0.00	
+ 0.75	 0.00	 0.00	 0.25	
+ 0.00	 0.00	 1.00	 0.00	
+ 0.00	 1.00	 0.00	 0.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 0.75	 0.00	 0.00	 0.25	
+ 0.00	 0.00	 0.25	 0.75	
+ 1.00	 0.00	 0.00	 0.00	
+
+
+Positive Sites:
+>Sp_bub3_upstream/SPAC23H3.08c/I:2507594-2507912	25	19046.71
+ATAAAGCTTAGA
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	305	16228.31
+TAAAAGCTTTTA
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	603	83004.43
+TTAGAGCTTATA
+>Sp_mad2_upstream/SPBC20F10.06/II:3294033-3294226	55	31825.35
+TAAATGCTTATA
+
+
+Negative Sites:
+
+####################
+
+MOTIF:	AAGAAAAAATTC
+Initial Seed:	AAAAAAAAAAAC
+Flexible Seed Positions: 10, 11
+Likelihood Threshold:	100.00000
+t-score:	2.04085
+Enrichment:	1.11156(log2)
+
+PWM:
+A	C	G	T
+ 0.87	 0.00	 0.13	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.49	 0.00	 0.51	 0.00	
+ 0.62	 0.25	 0.00	 0.13	
+ 0.75	 0.00	 0.25	 0.00	
+ 0.87	 0.13	 0.00	 0.00	
+ 0.75	 0.00	 0.00	 0.25	
+ 0.87	 0.00	 0.13	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.24	 0.00	 0.00	 0.76	
+ 0.11	 0.00	 0.00	 0.89	
+ 0.00	 0.75	 0.25	 0.00	
+
+
+Positive Sites:
+>Sp_bub1_upstream/SPCC1322.12c/III:1316006-1316336	64	2916.95
+AAAAAAAGATTC
+>Sp_bub1_upstream/SPCC1322.12c/III:1316006-1316336	224	2008.65
+AAGAAATAAATG
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	421	 260.39
+AAAAAAAAAAAC
+>Sp_mad3_upstream/SPCC1795.01c/III:996817-997415	80	3011.99
+AAGTAAAAATTG
+>Sp_mad3_upstream/SPCC1795.01c/III:996817-997415	377	5626.68
+AAAAAAAAATTC
+>Sp_mad3_upstream/SPCC1795.01c/III:996817-997415	473	5692.15
+GAGAGATAATTC
+>Sp_mad3_upstream/SPCC1795.01c/III:996817-997415	579	6277.09
+AAGCACAAATTC
+>Sp_mph1_upstream/SPBC106.01/II:373550-373691	99	7354.41
+AAACGAAAATTC
+
+
+Negative Sites:
+>gi|671162122:c29674007-29673307 Drosophila melanogaster chromosome 3R	280	  17.43
+AAAAAAAAAAAT
+
+####################
+
+MOTIF:	AAGAAAAAATTC
+Initial Seed:	AAAAAAAAATTC
+Flexible Seed Positions: 10, 11
+Likelihood Threshold:	100.00000
+t-score:	2.04085
+Enrichment:	1.11156(log2)
+
+PWM:
+A	C	G	T
+ 0.87	 0.00	 0.13	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.49	 0.00	 0.51	 0.00	
+ 0.62	 0.25	 0.00	 0.13	
+ 0.75	 0.00	 0.25	 0.00	
+ 0.87	 0.13	 0.00	 0.00	
+ 0.75	 0.00	 0.00	 0.25	
+ 0.87	 0.00	 0.13	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.24	 0.00	 0.00	 0.76	
+ 0.11	 0.00	 0.00	 0.89	
+ 0.00	 0.75	 0.25	 0.00	
+
+
+Positive Sites:
+>Sp_bub1_upstream/SPCC1322.12c/III:1316006-1316336	64	2916.95
+AAAAAAAGATTC
+>Sp_bub1_upstream/SPCC1322.12c/III:1316006-1316336	224	2008.65
+AAGAAATAAATG
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	421	 260.39
+AAAAAAAAAAAC
+>Sp_mad3_upstream/SPCC1795.01c/III:996817-997415	80	3011.99
+AAGTAAAAATTG
+>Sp_mad3_upstream/SPCC1795.01c/III:996817-997415	377	5626.68
+AAAAAAAAATTC
+>Sp_mad3_upstream/SPCC1795.01c/III:996817-997415	473	5692.15
+GAGAGATAATTC
+>Sp_mad3_upstream/SPCC1795.01c/III:996817-997415	579	6277.09
+AAGCACAAATTC
+>Sp_mph1_upstream/SPBC106.01/II:373550-373691	99	7354.41
+AAACGAAAATTC
+
+
+Negative Sites:
+>gi|671162122:c29674007-29673307 Drosophila melanogaster chromosome 3R	280	  17.43
+AAAAAAAAAAAT
+
+####################
+
+MOTIF:	AAAAAAAAATTC
+Initial Seed:	AAAAAAAAACTA
+Flexible Seed Positions: 4, 10
+Likelihood Threshold:	100.00000
+t-score:	1.45408
+Enrichment:	1.00053(log2)
+
+PWM:
+A	C	G	T
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.40	 0.20	 0.40	 0.00	
+ 0.80	 0.00	 0.20	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.80	 0.00	 0.20	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 0.00	 0.40	 0.60	
+ 0.20	 0.00	 0.00	 0.80	
+ 0.40	 0.60	 0.00	 0.00	
+
+
+Positive Sites:
+>Sp_bub1_upstream/SPCC1322.12c/III:1316006-1316336	64	5766.50
+AAAAAAAGATTC
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	207	12009.08
+AAAGAAAAAGTA
+>Sp_mad3_upstream/SPCC1795.01c/III:996817-997415	377	7226.29
+AAAAAAAAATTC
+>Sp_mph1_upstream/SPBC106.01/II:373550-373691	47	2215.68
+AAAGAAAAAGAA
+>Sp_mph1_upstream/SPBC106.01/II:373550-373691	99	8989.88
+AAACGAAAATTC
+
+
+Negative Sites:
+
+####################
+
+MOTIF:	ATAATAATAAGA
+Initial Seed:	ATAATAATAACA
+Flexible Seed Positions: 1, 11
+Likelihood Threshold:	500.00000
+t-score:	0.89532
+Enrichment:	0.97406(log2)
+
+PWM:
+A	C	G	T
+ 0.50	 0.00	 0.00	 0.50	
+ 0.00	 0.00	 0.00	 1.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 0.00	 0.50	 0.50	
+ 1.00	 0.00	 0.00	 0.00	
+
+
+Positive Sites:
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	341	110854.99
+ATAATAATAATA
+>Sp_mad2_upstream/SPBC20F10.06/II:3294033-3294226	86	147966.38
+TTAATAATAAGA
+
+
+Negative Sites:
+>gi|667793102:172865-173564 Pneumocystis murina B123 supercont2.1, whole genome shotgun sequence	68	 342.41
+TTAATATTAATC
+
+####################
+
+MOTIF:	ATAATAATAAGA
+Initial Seed:	ATAATAATAATA
+Flexible Seed Positions: 1, 11
+Likelihood Threshold:	500.00000
+t-score:	0.89532
+Enrichment:	0.97406(log2)
+
+PWM:
+A	C	G	T
+ 0.50	 0.00	 0.00	 0.50	
+ 0.00	 0.00	 0.00	 1.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 0.00	 0.50	 0.50	
+ 1.00	 0.00	 0.00	 0.00	
+
+
+Positive Sites:
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	341	110854.99
+ATAATAATAATA
+>Sp_mad2_upstream/SPBC20F10.06/II:3294033-3294226	86	147966.38
+TTAATAATAAGA
+
+
+Negative Sites:
+>gi|667793102:172865-173564 Pneumocystis murina B123 supercont2.1, whole genome shotgun sequence	68	 342.41
+TTAATATTAATC
+
+####################
+
+MOTIF:	TATTATTATTAA
+Initial Seed:	TATTATTATTAA
+Flexible Seed Positions: 2, 12
+Likelihood Threshold:	500.00000
+t-score:	0.89532
+Enrichment:	0.97406(log2)
+
+PWM:
+A	C	G	T
+ 0.00	 0.00	 0.00	 1.00	
+ 0.50	 0.50	 0.00	 0.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.50	 0.00	 0.00	 0.50	
+
+
+Positive Sites:
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	341	110854.99
+TATTATTATTAT
+>Sp_mad2_upstream/SPBC20F10.06/II:3294033-3294226	86	147966.38
+TCTTATTATTAA
+
+
+Negative Sites:
+
+####################
+
+MOTIF:	TATTATTATTAA
+Initial Seed:	TCTTATTATTAA
+Flexible Seed Positions: 2, 12
+Likelihood Threshold:	500.00000
+t-score:	0.89532
+Enrichment:	0.97406(log2)
+
+PWM:
+A	C	G	T
+ 0.00	 0.00	 0.00	 1.00	
+ 0.50	 0.50	 0.00	 0.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.50	 0.00	 0.00	 0.50	
+
+
+Positive Sites:
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	341	110854.99
+TATTATTATTAT
+>Sp_mad2_upstream/SPBC20F10.06/II:3294033-3294226	86	147966.38
+TCTTATTATTAA
+
+
+Negative Sites:
+
+####################
+
+MOTIF:	AAAGAAAAAGAA
+Initial Seed:	AAAAAAAAAGAA
+Flexible Seed Positions: 4, 11
+Likelihood Threshold:	300.00000
+t-score:	1.04886
+Enrichment:	0.93099(log2)
+
+PWM:
+A	C	G	T
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 0.00	 1.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.67	 0.33	 0.00	 0.00	
+ 0.67	 0.00	 0.00	 0.33	
+ 0.00	 0.00	 1.00	 0.00	
+ 0.67	 0.00	 0.00	 0.33	
+ 1.00	 0.00	 0.00	 0.00	
+
+
+Positive Sites:
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	207	48909.61
+AAAGAAAAAGTA
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	621	41305.22
+AAAGAAACTGAA
+>Sp_mph1_upstream/SPBC106.01/II:373550-373691	47	57360.27
+AAAGAAAAAGAA
+
+
+Negative Sites:
+
+####################
+
+MOTIF:	AAAAAAAACCAT
+Initial Seed:	AAAAAAAACTAT
+Flexible Seed Positions: 9, 10
+Likelihood Threshold:	400.00000
+t-score:	1.04886
+Enrichment:	0.93099(log2)
+
+PWM:
+A	C	G	T
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.67	 0.00	 0.33	 0.00	
+ 0.67	 0.33	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 0.67	 0.00	 0.33	
+ 0.00	 0.67	 0.00	 0.33	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 0.00	 0.00	 1.00	
+
+
+Positive Sites:
+>Sp_bub3_upstream/SPAC23H3.08c/I:2507594-2507912	202	14193.97
+AAAAAAAATCAT
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	418	17623.77
+AAAAAAAACTAT
+>Sp_mad2_upstream/SPBC20F10.06/II:3294033-3294226	44	47761.13
+AAAAGCAACCAT
+
+
+Negative Sites:
+
+####################
+
+MOTIF:	AAAAAAAAAACT
+Initial Seed:	AAAAAAAAAACT
+Flexible Seed Positions: 4, 7
+Likelihood Threshold:	200.00000
+t-score:	1.29198
+Enrichment:	0.80900(log2)
+
+PWM:
+A	C	G	T
+ 1.00	 0.00	 0.00	 0.00	
+ 0.83	 0.00	 0.00	 0.17	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.34	 0.34	 0.00	 0.32	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.83	 0.17	 0.00	 0.00	
+ 0.66	 0.17	 0.00	 0.17	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.83	 0.00	 0.00	 0.17	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 0.68	 0.17	 0.15	
+ 0.00	 0.00	 0.00	 1.00	
+
+
+Positive Sites:
+>Sp_bub1_upstream/SPCC1322.12c/III:1316006-1316336	107	9271.86
+AAATAATAAACT
+>Sp_bub3_upstream/SPAC23H3.08c/I:2507594-2507912	157	11095.34
+ATACAAAAAACT
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	163	7874.55
+AAACAACATACT
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	420	7720.06
+AAAAAAAAAACT
+>Sp_mad3_upstream/SPCC1795.01c/III:996817-997415	378	1020.83
+AAAAAAAAAATT
+>Sp_mad3_upstream/SPCC1795.01c/III:996817-997415	501	3732.80
+AAATACAAAAGT
+
+
+Negative Sites:
+>gi|162312575:c2506085-2505385 Schizosaccharomyces pombe 972h- chromosome I, complete sequence	230	 214.35
+AAATAAAAAATA
+
+####################
+
+MOTIF:	CAACAACCTCAA
+Initial Seed:	CAACAAACACAA
+Flexible Seed Positions: 7, 9
+Likelihood Threshold:	200.00000
+t-score:	0.40923
+Enrichment:	0.62613(log2)
+
+PWM:
+A	C	G	T
+ 0.00	 1.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 1.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 1.00	 0.00	 0.00	
+ 0.00	 1.00	 0.00	 0.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 0.00	 1.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+
+
+Positive Sites:
+>Sp_mad3_upstream/SPCC1795.01c/III:996817-997415	20	2283768.90
+CAACAACCTCAA
+
+
+Negative Sites:
+
+####################
+
+MOTIF:	CAACAACCTCAA
+Initial Seed:	CAACAACCGCAA
+Flexible Seed Positions: 7, 9
+Likelihood Threshold:	200.00000
+t-score:	0.40923
+Enrichment:	0.62613(log2)
+
+PWM:
+A	C	G	T
+ 0.00	 1.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 1.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 1.00	 0.00	 0.00	
+ 0.00	 1.00	 0.00	 0.00	
+ 0.00	 0.00	 0.00	 1.00	
+ 0.00	 1.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+
+
+Positive Sites:
+>Sp_mad3_upstream/SPCC1795.01c/III:996817-997415	20	2283768.90
+CAACAACCTCAA
+
+
+Negative Sites:
+
+####################
+
+MOTIF:	AAAAGAAAGAAA
+Initial Seed:	AAAAAAAAAAAA
+Flexible Seed Positions: 5, 9
+Likelihood Threshold:	200.00000
+t-score:	0.57883
+Enrichment:	0.62613(log2)
+
+PWM:
+A	C	G	T
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.21	 0.00	 0.79	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.21	 0.00	 0.79	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+
+
+Positive Sites:
+>Sp_bub3_upstream/SPAC23H3.08c/I:2507594-2507912	190	116540.89
+AAAAGAAAGAAA
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	422	1457.33
+AAAAAAAAAAAA
+
+
+Negative Sites:
+>gi|330443578:349369-350068 Saccharomyces cerevisiae S288c chromosome VII, complete sequence	135	3125.22
+AAAAAAAAAAAA
+>gi|330443578:c872044-871344 Saccharomyces cerevisiae S288c chromosome VII, complete sequence	470	1457.33
+AAAAAAAAAAAA
+>gi|330443638:388248-388947 Saccharomyces cerevisiae S288c chromosome X, complete sequence	13	3125.22
+AAAAAAAAAAAA
+>gi|330443743:380807-381506 Saccharomyces cerevisiae S288c chromosome XV, complete sequence	90	  31.75
+AATAAAGAAAAA
+>gi|667793102:172865-173564 Pneumocystis murina B123 supercont2.1, whole genome shotgun sequence	206	1457.33
+AAAAAAAAAAAA
+>gi|671162122:c29674007-29673307 Drosophila melanogaster chromosome 3R	277	3125.22
+AAAAAAAAAAAA
+>gi|745755189:765148-765847 Schizosaccharomyces japonicus yFS275 unplaced genomic scaffold supercont5.1, whole genome shotgun sequence	130	 262.47
+ATAAAAAAAAAA
+>gi|891581041:61486-62185 Schizosaccharomyces octosporus yFS286 unplaced genomic scaffold supercont6.1, whole genome shotgun sequence	188	  17.14
+AAAAAAAAAGGA
+
+####################
+
+MOTIF:	AAAAAAAACCAT
+Initial Seed:	AAAAAAAATCAT
+Flexible Seed Positions: 9, 10
+Likelihood Threshold:	400.00000
+t-score:	1.04886
+Enrichment:	0.93099(log2)
+
+PWM:
+A	C	G	T
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.67	 0.00	 0.33	 0.00	
+ 0.67	 0.33	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 0.67	 0.00	 0.33	
+ 0.00	 0.67	 0.00	 0.33	
+ 1.00	 0.00	 0.00	 0.00	
+ 0.00	 0.00	 0.00	 1.00	
+
+
+Positive Sites:
+>Sp_bub3_upstream/SPAC23H3.08c/I:2507594-2507912	202	14193.97
+AAAAAAAATCAT
+>Sp_mad1_upstream/SPBC3D6.04c/II:1277060-1277759	418	17623.77
+AAAAAAAACTAT
+>Sp_mad2_upstream/SPBC20F10.06/II:3294033-3294226	44	47761.13
+AAAAGCAACCAT
+
+
+Negative Sites:
+
+####################
+

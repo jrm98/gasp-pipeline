@@ -1,0 +1,251 @@
+**************************************** 
+*                                      * 
+*      BioProspector Search Result     * 
+*                                      * 
+**************************************** 
+
+Try #1	1.397	ACAATCGAAGAAAT ATTTCTTCGATTGT	 	5
+Try #2	1.620	TTTTGTTTTTATTT AAATAAAAACAAAA	 	10
+Try #3	1.610	TTACACACTCGAAG CTTCGAGTGTGTAA	 	8
+Try #4	1.437	AATAAGGTTTACCA TGGTAAACCTTATT	 	8
+Try #5	1.590	ACAAGCTGTCAACC GGTTGACAGCTTGT	 	5
+Try #6	1.576	TCATTTCTTCTAGC GCTAGAAGAAATGA	 	8
+Try #7	1.521	AAAAAGTAAACTGA TCAGTTTACTTTTT	 	7
+Try #8	1.513	TTTTTCTTTATTTT AAAATAAAGAAAAA	 	7
+Try #9	1.350	ATTTATGGTTATCG CGATAACCATAAAT	 	7
+Try #10	1.513	AAAAATAAAATATA TATATTTTATTTTT	 	8
+Try #11	1.523	CAATAAAAATTGAT ATCAATTTTTATTG	 	6
+Try #12	1.718	GTTTTATTTTCAGT ACTGAAAATAAAAC	 	9
+Try #13	1.546	AAAAATAAAATATA TATATTTTATTTTT	 	9
+Try #14	1.430	TTTATTTTCTTTTT AAAAAGAAAATAAA	 	8
+Try #15	1.643	TTTTGTTTTTATTT AAATAAAAACAAAA	 	11
+Try #16	1.677	TACTCCATCTCATT AATGAGATGGAGTA	 	10
+Try #17	1.490	TATGGTAAGACAAC GTTGTCTTACCATA	 	7
+Try #18	1.624	TTTTGTTTTTATTT AAATAAAAACAAAA	 	10
+Try #19	1.529	TCATTTTACTTTTT AAAAAGTAAAATGA	 	7
+Try #20	1.479	TAAATAATAATTAT ATAATTATTATTTA	 	7
+Try #21	1.449	ATACAATGTTGAAG CTTCAACATTGTAT	 	6
+Try #22	1.502	AATGAATTTTAGGC GCCTAAAATTCATT	 	8
+Try #23	1.538	TCTCCTATATCCGT ACGGATATAGGAGA	 	7
+Try #24	1.523	CATATATTTAGACT AGTCTAAATATATG	 	8
+Try #25	1.685	CAATGATCAAAGAT ATCTTTGATCATTG	 	7
+Try #26	1.441	AATTTTTTTTCTGT ACAGAAAAAAAATT	 	8
+Try #27	1.543	ATAATTTATATTTA TAAATATAAATTAT	 	7
+Try #28	1.485	TTTTTATATTCTTT AAAGAATATAAAAA	 	7
+Try #29	1.416	AAAAACAAAAAAAA TTTTTTTTGTTTTT	 	8
+Try #30	1.533	AAAAAAAAAAAAAC GTTTTTTTTTTTTT	 	9
+Try #31	1.642	ATTAATATAAATAT ATATTTATATTAAT	 	9
+Try #32	1.405	TTTTTTTTTTTTTT AAAAAAAAAAAAAA	 	6
+Try #33	1.574	AAAAATATTTTATA TATAAAATATTTTT	 	8
+Try #34	1.624	CTTGTTATTATATT AATATAATAACAAG	 	8
+Try #35	1.652	TTCTATTTTTTATT AATAAAAAATAGAA	 	9
+Try #36	1.513	AATAAAAACAACTT AAGTTGTTTTTATT	 	9
+Try #37	1.497	ATATTGATTTTATA TATAAAATCAATAT	 	7
+Try #38	1.482	TAAAAAAAAGAAAA TTTTCTTTTTTTTA	 	7
+Try #39	1.460	AAAATGAAAAGTCA TGACTTTTCATTTT	 	9
+Try #40	1.512	TAGTTTTTTTATTT AAATAAAAAAACTA	 	8
+
+The highest scoring 5 motifs are:
+Motif #1: (GTTTTATTTTCAGT/ACTGAAAATAAAAC)
+******************************
+Width (14, 0); Gap [0, 0]; MotifScore 1.718; Sites 9
+
+Blk1    A      C      G      T         Con  rCon Deg  rDeg 
+1      2.16   1.09  73.81  22.94        G    C    G    C
+2      2.16   1.09  21.86  74.89        T    A    T    A
+3      2.16   1.09   1.09  95.67        T    A    T    A
+4     12.55   1.09  42.64  43.72        T    A    K    M
+5      2.16  32.25   1.09  64.50        T    A    Y    R
+6     95.67   1.09   1.09   2.16        A    T    A    T
+7      2.16   1.09  21.86  74.89        T    A    T    A
+8     12.55  21.86   1.09  64.50        T    A    T    A
+9     12.55   1.09  21.86  64.50        T    A    T    A
+10    12.55   1.09   1.09  85.28        T    A    T    A
+11     2.16  94.59   1.09   2.16        C    G    C    G
+12    54.11   1.09   1.09  43.72        A    T    W    W
+13     2.16   1.09  73.81  22.94        G    C    G    C
+14    22.94   1.09   1.09  74.89        T    A    T    A
+
+>seq1	len 700	site #1	f 131
+TTTGTATTTTCAGT
+>seq3	len 610	site #1	f 172
+GTTGTAGCGTCAGA
+>seq4	len 700	site #1	r 338
+GTTTTATTGTCAGT
+>seq4	len 700	site #2	r 314
+GTTATATCTTCTTT
+>seq5	len 214	site #1	f 28
+GTTGCATATACAGA
+>seq6	len 700	site #1	r 269
+GTTTCATTTTCTGT
+>seq6	len 700	site #2	r 496
+TGTGTATTATCTGT
+>seq7	len 700	site #1	r 497
+GGTTTATTTTCAGT
+>seq7	len 700	site #2	f 620
+GTTTCAGTTTCTTT
+******************************
+
+Motif #2: (CAATGATCAAAGAT/ATCTTTGATCATTG)
+******************************
+Width (14, 0); Gap [0, 0]; MotifScore 1.685; Sites 7
+
+Blk1    A      C      G      T         Con  rCon Deg  rDeg 
+1      2.73  66.94   1.37  28.96        C    G    Y    R
+2     94.53   1.37   1.37   2.73        A    T    A    T
+3     81.42   1.37  14.49   2.73        A    T    A    T
+4      2.73   1.37   1.37  94.53        T    A    T    A
+5     42.07   1.37  53.83   2.73        G    C    R    Y
+6     81.42   1.37   1.37  15.84        A    T    A    T
+7      2.73   1.37  40.71  55.19        T    A    K    M
+8      2.73  66.94  27.60   2.73        C    G    S    S
+9     81.42  14.49   1.37   2.73        A    T    A    T
+10    81.42   1.37  14.49   2.73        A    T    A    T
+11    68.30   1.37  27.60   2.73        A    T    R    Y
+12     2.73   1.37  53.83  42.07        G    C    K    M
+13    94.53   1.37   1.37   2.73        A    T    A    T
+14     2.73   1.37   1.37  94.53        T    A    T    A
+
+>seq0	len 700	site #1	r 508
+CAATAATCAAATAT
+>seq1	len 700	site #1	r 30
+CAGTGAGCCAAGAT
+>seq2	len 291	site #1	r 208
+TAATAATGAAGTAT
+>seq4	len 700	site #1	f 575
+CAATGTTCAAAGAT
+>seq5	len 214	site #1	f 70
+TAATGAGCAGAGAT
+>seq6	len 700	site #1	r 57
+CAATAAGCAAATAT
+>seq6	len 700	site #2	r 313
+CAATGATGAAGGAT
+******************************
+
+Motif #3: (TACTCCATCTCATT/AATGAGATGGAGTA)
+******************************
+Width (14, 0); Gap [0, 0]; MotifScore 1.677; Sites 10
+
+Blk1    A      C      G      T         Con  rCon Deg  rDeg 
+1     30.19   0.98   0.98  67.84        T    A    W    W
+2     86.66  10.40   0.98   1.96        A    T    A    T
+3     20.78  48.04   0.98  30.19        C    G    Y    R
+4     20.78  10.40  10.40  58.43        T    A    T    A
+5     11.37  76.28  10.40   1.96        C    G    C    G
+6      1.96  48.04  48.04   1.96        C    G    S    S
+7     49.02  48.04   0.98   1.96        A    T    M    K
+8     20.78  38.63   0.98  39.60        T    A    Y    R
+9     39.60  48.04   0.98  11.37        C    G    M    K
+10     1.96   0.98   0.98  96.08        T    A    T    A
+11     1.96  95.10   0.98   1.96        C    G    C    G
+12    39.60  38.63  19.81   1.96        A    T    M    K
+13    20.78   0.98  38.63  39.60        T    A    K    M
+14     1.96   0.98   0.98  96.08        T    A    T    A
+
+>seq0	len 700	site #1	r 304
+AAATCGCAATCGAT
+>seq1	len 700	site #1	f 329
+TACTCCACCTCGTT
+>seq1	len 700	site #2	f 347
+TATTCCATTTCATT
+>seq3	len 610	site #1	r 169
+TACTCGCACTCCTT
+>seq3	len 610	site #2	r 18
+TCTCCCATATCCGT
+>seq4	len 700	site #1	f 634
+TACGCGCCCTCCGT
+>seq5	len 214	site #1	r 154
+AACACGCTATCAAT
+>seq6	len 700	site #1	f 633
+TACACGCCCTCAGT
+>seq6	len 700	site #2	f 488
+TAATACACATCCTT
+>seq7	len 700	site #1	f 98
+AATTGCATCTCAGT
+******************************
+
+Motif #4: (TTCTATTTTTTATT/AATAAAAAATAGAA)
+******************************
+Width (14, 0); Gap [0, 0]; MotifScore 1.652; Sites 9
+
+Blk1    A      C      G      T         Con  rCon Deg  rDeg 
+1      2.16   1.09  42.64  54.11        T    A    K    M
+2      2.16   1.09  21.86  74.89        T    A    T    A
+3      2.16  94.59   1.09   2.16        C    G    C    G
+4      2.16   1.09   1.09  95.67        T    A    T    A
+5     43.72   1.09  11.48  43.72        A    T    W    W
+6      2.16   1.09  42.64  54.11        T    A    K    M
+7     22.94  11.48   1.09  64.50        T    A    T    A
+8      2.16   1.09  32.25  64.50        T    A    K    M
+9      2.16   1.09   1.09  95.67        T    A    T    A
+10     2.16  11.48  21.86  64.50        T    A    T    A
+11     2.16   1.09   1.09  95.67        T    A    T    A
+12    74.89   1.09   1.09  22.94        A    T    A    T
+13     2.16   1.09   1.09  95.67        T    A    T    A
+14    22.94   1.09   1.09  74.89        T    A    T    A
+
+>seq0	len 700	site #1	f 407
+TTCTTGATTTTATA
+>seq1	len 700	site #1	f 111
+GGCTATTTTTTTTT
+>seq2	len 291	site #1	r 148
+TGCTTTATTCTATT
+>seq3	len 610	site #1	f 492
+TTCTTGTTTTTATT
+>seq3	len 610	site #2	r 610
+GTCTGGTGTGTATT
+>seq4	len 700	site #1	f 458
+GTCTTTCTTTTATT
+>seq6	len 700	site #1	r 15
+GTCTATTGTTTATT
+>seq6	len 700	site #2	f 449
+TTCTATTGTGTATT
+>seq7	len 700	site #1	f 322
+TTCTAGTTTTTTTA
+******************************
+
+Motif #5: (TTTTGTTTTTATTT/AAATAAAAACAAAA)
+******************************
+Width (14, 0); Gap [0, 0]; MotifScore 1.643; Sites 11
+
+Blk1    A      C      G      T         Con  rCon Deg  rDeg 
+1     10.39   0.90   9.50  79.21        T    A    T    A
+2      1.79  43.91   0.90  53.40        T    A    Y    R
+3      1.79   0.90   0.90  96.41        T    A    T    A
+4      1.79   0.90   0.90  96.41        T    A    T    A
+5     10.39   0.90  61.11  27.60        G    C    K    M
+6     27.60  35.31   0.90  36.20        T    A    H    D
+7      1.79   0.90   0.90  96.41        T    A    T    A
+8     18.99   0.90   0.90  79.21        T    A    T    A
+9      1.79   0.90   0.90  96.41        T    A    T    A
+10    36.20   0.90   0.90  62.00        T    A    W    W
+11    44.80   0.90  18.10  36.20        A    T    W    W
+12     1.79   0.90   0.90  96.41        T    A    T    A
+13    10.39  43.91   0.90  44.80        T    A    Y    R
+14     1.79   0.90   0.90  96.41        T    A    T    A
+
+>seq0	len 700	site #1	f 408
+TCTTGATTTTATAT
+>seq1	len 700	site #1	r 670
+TTTTGCTTTTTTCT
+>seq1	len 700	site #2	f 119
+TTTTTTTTTTTTTT
+>seq2	len 291	site #1	r 151
+GTTTGCTTTATTCT
+>seq3	len 610	site #1	f 493
+TCTTGTTTTTATTT
+>seq3	len 610	site #2	r 252
+TTTTGATTTAGTTT
+>seq4	len 700	site #1	f 459
+TCTTTCTTTTATTT
+>seq4	len 700	site #2	r 353
+ATTTGATATTATCT
+>seq5	len 214	site #1	f 99
+TCTTATTTTAGTCT
+>seq6	len 700	site #1	r 522
+TCTTGCTATAATCT
+>seq7	len 700	site #1	f 431
+TTTTTTTTTTTTTT
+******************************
+
+Total time 0:0:2.

@@ -1,0 +1,315 @@
+test5	=> results: ['<divclass="container"><h1>AAGTAACATTTA</h1>', '<br></div><divclass="container"><h1>GAAGGAGAACCC</h1>', '<br></div><divclass="container"><h1>TTCAGTATTC</h1>']
+	=> actual: ['CGGCTAAGGGTC']
+
+test0	=> results: ['<divclass="container"><h1>AACACAAATCCA</h1>', '<br></div><divclass="container"><h1>ATATACAATG</h1>', '<br></div><divclass="container"><h1>CCTGCCGC</h1>']
+	=> actual: ['GCTTCAAT']
+
+test1	=> results: ['<divclass="container"><h1>CTGCCACATACA</h1>', '<br></div><divclass="container"><h1>ATCACGAA</h1>', '<br></div><divclass="container"><h1>GTCAGCACTG</h1>']
+	=> actual: ['CTTAGATT']
+
+test6	=> results: ['<divclass="container"><h1>CTGCCACATACA</h1>', '<br></div><divclass="container"><h1>CAGTGCTGAC</h1>', '<br></div><divclass="container"><h1>GTCAGCACTG</h1>']
+	=> actual: ['TATTCACCGGCC']
+
+test2	=> results: ['<divclass="container"><h1>CAGAGACGTTTG</h1>', '<br></div><divclass="container"><h1>AATGTAAG</h1>', '<br></div><divclass="container"><h1>AAAGAATACA</h1>']
+	=> actual: ['TCTCTTCA']
+
+test7	=> results: ['<divclass="container"><h1>TACACTGTCAAC</h1>', '<br></div><divclass="container"><h1>AATGCCAAGATA</h1>', '<br></div><divclass="container"><h1>CATGAATACG</h1>']
+	=> actual: ['TCGCACATTGTG']
+
+test3	=> results: ['<divclass="container"><h1>TACACTGTCAAC</h1>', '<br></div><divclass="container"><h1>CATGAATACG</h1>', '<br></div><divclass="container"><h1>CGTATTCATG</h1>']
+	=> actual: ['TGCGCAAA']
+
+test4	=> results: ['<divclass="container"><h1>GAAGGAGAACCC</h1>', '<br></div><divclass="container"><h1>GAGTACTGAA</h1>', '<br></div><divclass="container"><h1>TAATTGCT</h1>']
+	=> actual: ['ATATCAGG']
+
+test8	=> results: ['<divclass="container"><h1>TACACTGTCAAC</h1>', '<br></div><divclass="container"><h1>GAAAACTCAAAA</h1>', '<br></div><divclass="container"><h1>ATTGCCTTTC</h1>']
+	=> actual: ['GTGCCTATTACC']
+
+test5	=> results: ['<divclass="container"><h1>GGCCGGAAGCGG</h1>', '<br></div><divclass="container"><h1>GAAAACTC</h1>', '<br></div><divclass="container"><h1>GTCACCAGTG</h1>']
+	=> actual: ['ACTACCCT']
+
+test6	=> results: ['<divclass="container"><h1>GAAGGAGAACCC</h1>', '<br></div><divclass="container"><h1>TTCAGTATAT</h1>', '<br></div><divclass="container"><h1>GCGCGGCA</h1>']
+	=> actual: ['AGGCTTCA']
+
+test9	=> results: ['<divclass="container"><h1>CTGCCACATACA</h1>', '<br></div><divclass="container"><h1>AGTGCTGCCA</h1>', '<br></div><divclass="container"><h1>AAGACGGTAATT</h1>']
+	=> actual: ['GCAAGTGCCGTT']
+
+test7	=> results: ['<divclass="container"><h1>AACTTTGGGTCAAAAC</h1>', '<br></div><divclass="container"><h1>AAGACGGT</h1>', '<br></div><divclass="container"><h1>AAAAGTGGCG</h1>']
+	=> actual: ['AGATATAG']
+
+test8	=> results: ['<divclass="container"><h1>GTTTATCCCCGC</h1>', '<br></div><divclass="container"><h1>AATTCTGC</h1>', '<br></div><divclass="container"><h1>TACGCGCCGG</h1>']
+	=> actual: ['TGGGCCTT']
+
+test9	=> results: ['<divclass="container"><h1>GAGAAACCAAGC</h1>', '<br></div><divclass="container"><h1>TATGAAAC</h1>', '<br></div><divclass="container"><h1>TGTATTCACG</h1>']
+	=> actual: ['ATGTCTGA']
+
+test0	=> results: ['<divclass="container"><h1>TTAAAAGCAACA</h1>', '<br></div><divclass="container"><h1>ACGCTAAAAT</h1>', '<br></div><divclass="container"><h1>ACGTATTCAT</h1>']
+	=> actual: ['TAGCAGGAAACCGGCT']
+
+test0	=> results: ['<divclass="container"><h1>TAGTCCTGGTTGCACT</h1>', '<br></div><divclass="container"><h1>TTAAAAGCAACA</h1>', '<br></div><divclass="container"><h1>GACCGC</h1>']
+	=> actual: ['ACAGTGTCTGTC']
+
+test1	=> results: ['<divclass="container"><h1>AAGCAACCATGG</h1>', '<br></div><divclass="container"><h1>GGCCGGAAGCGG</h1>', '<br></div><divclass="container"><h1>GGCTACGGTC</h1>']
+	=> actual: ['TCAATAGTTGAT']
+
+test2	=> results: ['<divclass="container"><h1>CTGCCACATACA</h1>', '<br></div><divclass="container"><h1>AATGTGGCAGAA</h1>', '<br></div><divclass="container"><h1>CAGTGCTGAC</h1>']
+	=> actual: ['CTATAGCCGCCG']
+
+test1	=> results: ['<divclass="container"><h1>AATGTGGCAGAA</h1>', '<br></div><divclass="container"><h1>CAAATAAATT</h1>', '<br></div><divclass="container"><h1>TCGAAAAC</h1>']
+	=> actual: ['GGTAGAGCCCATTCTC']
+
+test3	=> results: ['<divclass="container"><h1>CTGCCACATACA</h1>', '<br></div><divclass="container"><h1>GGCAGCACTG</h1>', '<br></div><divclass="container"><h1>TTTACAACTTTC</h1>']
+	=> actual: ['CAAATTCTTTGG']
+
+test4	=> results: ['<divclass="container"><h1>CCAAGCGCACAC</h1>', '<br></div><divclass="container"><h1>CCCTTTGAAG</h1>', '<br></div><divclass="container"><h1>ACCAGCGATT</h1>']
+	=> actual: ['TTAGGACTCCAT']
+
+test2	=> results: ['<divclass="container"><h1>AATATTAACGTG</h1>', '<br></div><divclass="container"><h1>AGAAATGAAA</h1>', '<br></div><divclass="container"><h1>ACTGAAAATA</h1>']
+	=> actual: ['ATGCTATCGGAGACCC']
+
+test5	=> results: ['<divclass="container"><h1>TAAGCCTGTTGC</h1>', '<br></div><divclass="container"><h1>AAACAACGACAA</h1>', '<br></div><divclass="container"><h1>AAGTCGCGGT</h1>']
+	=> actual: ['CGCAAGCCTCTT']
+
+test6	=> results: ['<divclass="container"><h1>CTGCCACATACA</h1>', '<br></div><divclass="container"><h1>GGCAGCACTG</h1>', '<br></div><divclass="container"><h1>CAGTGCTGCC</h1>']
+	=> actual: ['GTCGCCGAAGGC']
+
+test3	=> results: ['<divclass="container"><h1>AGTCAACAGT</h1>', '<br></div><divclass="container"><h1>GAAGACCCTA</h1>', '<br></div><divclass="container"><h1>CAAATAAATT</h1>']
+	=> actual: ['ATGTGAGGCTCAGTAG']
+
+test7	=> results: ['<divclass="container"><h1>CCAAGCGCACAC</h1>', '<br></div><divclass="container"><h1>GGAACCACTTCT</h1>', '<br></div><divclass="container"><h1>CATATACAAA</h1>']
+	=> actual: ['TGCTCGATGCTG']
+
+test8	=> results: ['<divclass="container"><h1>CCTACACCGCGA</h1>', '<br></div><divclass="container"><h1>CCAAGCGCACAC</h1>', '<br></div><divclass="container"><h1>AGGCTCCC</h1>']
+	=> actual: ['TCAGGTAGTCGG']
+
+test4	=> results: ['<divclass="container"><h1>GCTCTCGTATAC</h1>', '<br></div><divclass="container"><h1>GGTATACGAG</h1>', '<br></div><divclass="container"><h1>GCGCCGCGACCG</h1>']
+	=> actual: ['GATTGTTTTCCTCTCC']
+
+test9	=> results: ['<divclass="container"><h1>GAGACCTCGACT</h1>', '<br></div><divclass="container"><h1>TAAGCCTGTTGC</h1>', '<br></div><divclass="container"><h1>GAAGGGGCGT</h1>']
+	=> actual: ['ACTGGCGCTTAT']
+
+test5	=> results: ['<divclass="container"><h1>GGTTGGCAGCAA</h1>', '<br></div><divclass="container"><h1>CAAATAAATT</h1>', '<br></div><divclass="container"><h1>GTCACCAGTC</h1>']
+	=> actual: ['CAGTCGAATGTTAATA']
+
+test0	=> results: ['<divclass="container"><h1>GAGAAACCAAGC</h1>', '<br></div><divclass="container"><h1>AGGTCGCATGGC</h1>', '<br></div><divclass="container"><h1>ATCTCGACTA</h1>']
+	=> actual: ['ACTGATGAGGCCGTAA']
+
+test6	=> results: ['<divclass="container"><h1>GAGAAGAAATGG</h1>', '<br></div><divclass="container"><h1>TGCAAATGGCGA</h1>', '<br></div><divclass="container"><h1>TAATAGTA</h1>']
+	=> actual: ['GAGCGCGACTATTTGG']
+
+test1	=> results: ['<divclass="container"><h1>TTATTGTTGATA</h1>', '<br></div><divclass="container"><h1>ACAGTAGAAG</h1>', '<br></div><divclass="container"><h1>GTCAACAGTC</h1>']
+	=> actual: ['TTTGTGTACATCAAAC']
+
+test7	=> results: ['<divclass="container"><h1>TTCCCTTTATTT</h1>', '<br></div><divclass="container"><h1>CGGCCGCCGCCA</h1>', '<br></div><divclass="container"><h1>AATATCAT</h1>']
+	=> actual: ['TTTTCGGGCAAAGGAC']
+
+test2	=> results: ['<divclass="container"><h1>GGAAACCAAAAA</h1>', '<br></div><divclass="container"><h1>GGGAATACAG</h1>', '<br></div><divclass="container"><h1>AGTCGAGATT</h1>']
+	=> actual: ['GACCATAACGGTTTGT']
+
+test8	=> results: ['<divclass="container"><h1>GAGAAACCAAGC</h1>', '<br></div><divclass="container"><h1>CGATGCCTCCCA</h1>', '<br></div><divclass="container"><h1>TAATAGTA</h1>']
+	=> actual: ['TGCCTATTGGACGCAT']
+
+test3	=> results: ['<divclass="container"><h1>TACACTGTCAAC</h1>', '<br></div><divclass="container"><h1>ACGCTAAAAT</h1>', '<br></div><divclass="container"><h1>CATATTCATG</h1>']
+	=> actual: ['TCATGTACTCTTGCCA']
+
+test9	=> results: ['<divclass="container"><h1>AACGAACATTAA</h1>', '<br></div><divclass="container"><h1>AAATAGCAGA</h1>', '<br></div><divclass="container"><h1>TATACGTATT</h1>']
+	=> actual: ['TAGAGGCTTGGCCAGG']
+
+test4	=> results: ['<divclass="container"><h1>TTCAAAATGCAA</h1>', '<br></div><divclass="container"><h1>CAGAGACGTTTG</h1>', '<br></div><divclass="container"><h1>TATATACAAT</h1>']
+	=> actual: ['AGCCCTTTATAATGAA']
+
+test0	=> results: ['<divclass="container"><h1>CGAGTACCCTAG</h1>', '<br></div><divclass="container"><h1>GACGATCCACGG</h1>', '<br></div><divclass="container"><h1>TGCGCAATAC</h1>']
+	=> actual: ['TCATGTGTGGCT']
+
+test1	=> results: ['<divclass="container"><h1>GAGAAACCAAGC</h1>', '<br></div><divclass="container"><h1>TAAAAAGGTACT</h1>', '<br></div><divclass="container"><h1>TGGATACAGG</h1>']
+	=> actual: ['ATGATCTGCGAT']
+
+test5	=> results: ['<divclass="container"><h1>AAAACAAATATT</h1>', '<br></div><divclass="container"><h1>TAATAGTA</h1>', '<br></div><divclass="container"><h1>GAAGTATTAC</h1>']
+	=> actual: ['CGCCGCATTTGGTGTC']
+
+test2	=> results: ['<divclass="container"><h1>GGGACACCTCTACTGG</h1>', '<br></div><divclass="container"><h1>CCGGACTTAGGC</h1>', '<br></div><divclass="container"><h1>CTTAAGCCGG</h1>']
+	=> actual: ['AACAGGGGAACA']
+
+test3	=> results: ['<divclass="container"><h1>GTTTATCCCCGC</h1>', '<br></div><divclass="container"><h1>TGACCCAGTAAG</h1>', '<br></div><divclass="container"><h1>AATGATTGGA</h1>']
+	=> actual: ['GAGTGTACCCGA']
+
+test6	=> results: ['<divclass="container"><h1>AACTTAAGACAT</h1>', '<br></div><divclass="container"><h1>CAGAGACGTTTG</h1>', '<br></div><divclass="container"><h1>TATATACAAT</h1>']
+	=> actual: ['GTGCAATCTGGTCTGT']
+
+test4	=> results: ['<divclass="container"><h1>CACTAGTCGTAG</h1>', '<br></div><divclass="container"><h1>GACGGTAGAC</h1>', '<br></div><divclass="container"><h1>GACCCGCG</h1>']
+	=> actual: ['GCAACTCCGTGC']
+
+test5	=> results: ['<divclass="container"><h1>GAAGGAGAACCC</h1>', '<br></div><divclass="container"><h1>TATGTTGAAA</h1>', '<br></div><divclass="container"><h1>ATATTGTACT</h1>']
+	=> actual: ['ATCCATTCCTAC']
+
+test7	=> results: ['<divclass="container"><h1>AAACTATAAAAA</h1>', '<br></div><divclass="container"><h1>AACACAAATCCA</h1>', '<br></div><divclass="container"><h1>TGTATATCCA</h1>']
+	=> actual: ['GGATAGAACCACTTGA']
+
+test6	=> results: ['<divclass="container"><h1>AACACAAATCCA</h1>', '<br></div><divclass="container"><h1>AAACTATAAAAA</h1>', '<br></div><divclass="container"><h1>ATACCGCTAG</h1>']
+	=> actual: ['TTGCTAATCTAT']
+
+test7	=> results: ['<divclass="container"><h1>GACCTTAAAGAC</h1>', '<br></div><divclass="container"><h1>GTTTATCCCCGC</h1>', '<br></div><divclass="container"><h1>GTGTTTATGA</h1>']
+	=> actual: ['CTGAATTCAATC']
+
+test8	=> results: ['<divclass="container"><h1>AAAACTTACTTT</h1>', '<br></div><divclass="container"><h1>CAGAGACGTTTG</h1>', '<br></div><divclass="container"><h1>ATAAAATACA</h1>']
+	=> actual: ['GACCAGAGCATGACAC']
+
+test8	=> results: ['<divclass="container"><h1>CGAGTACCCTAG</h1>', '<br></div><divclass="container"><h1>TCAACCGTAC</h1>', '<br></div><divclass="container"><h1>AAAACTTACTTT</h1>']
+	=> actual: ['ACAGCGCCGGAC']
+
+test9	=> results: ['<divclass="container"><h1>GAAGGAGAACCC</h1>', '<br></div><divclass="container"><h1>ACTTTAAAGTAT</h1>', '<br></div><divclass="container"><h1>GAGTACTGAA</h1>']
+	=> actual: ['TACTTATATACT']
+
+test0	=> results: ['<divclass="container"><h1>AACACAAATCCA</h1>', '<br></div><divclass="container"><h1>AGGATGAGTG</h1>', '<br></div><divclass="container"><h1>ATAAATTATTAT</h1>']
+	=> actual: ['ATCTGTTTACGG']
+
+test9	=> results: ['<divclass="container"><h1>AACACAAATCCA</h1>', '<br></div><divclass="container"><h1>AGGATGAGTG</h1>', '<br></div><divclass="container"><h1>ATAAATTATTAT</h1>']
+	=> actual: ['GTTCATCGCTTGTAAC']
+
+test1	=> results: ['<divclass="container"><h1>AATGACCGTCAA</h1>', '<br></div><divclass="container"><h1>GTTTATCCCCGC</h1>', '<br></div><divclass="container"><h1>ACTTTTAACC</h1>']
+	=> actual: ['CTGGCTCACAGG']
+
+test0	=> results: ['<divclass="container"><h1>AATGACCGTCAA</h1>', '<br></div><divclass="container"><h1>GTTTATCCCCGC</h1>', '<br></div><divclass="container"><h1>AACCCCTGAG</h1>']
+	=> actual: ['TCTAAAGGGTTT']
+
+test2	=> results: ['<divclass="container"><h1>CAGAGACGTTTG</h1>', '<br></div><divclass="container"><h1>AAATAAAACGGT</h1>', '<br></div><divclass="container"><h1>AGGCTC</h1>']
+	=> actual: ['AGTTGATGCGGG']
+
+test1	=> results: ['<divclass="container"><h1>CGAGTACCCTAG</h1>', '<br></div><divclass="container"><h1>AAATAAAACGGT</h1>', '<br></div><divclass="container"><h1>TACTTCGCAA</h1>']
+	=> actual: ['ATTCCACCAATG']
+
+test3	=> results: ['<divclass="container"><h1>GAGACCGGGAAT</h1>', '<br></div><divclass="container"><h1>GAAGGAGAACCC</h1>', '<br></div><divclass="container"><h1>AGGCGCACAA</h1>']
+	=> actual: ['CTAGCCCCCCCT']
+
+test2	=> results: ['<divclass="container"><h1>GAAGGAGAACCC</h1>', '<br></div><divclass="container"><h1>AATGGTTGCTTA</h1>', '<br></div><divclass="container"><h1>TGTCAACATA</h1>']
+	=> actual: ['GTACCCATCATT']
+
+test4	=> results: ['<divclass="container"><h1>AACACAAATCCA</h1>', '<br></div><divclass="container"><h1>AGGATGAGTA</h1>', '<br></div><divclass="container"><h1>ATAGGACCGA</h1>']
+	=> actual: ['GACCTGGACCTG']
+
+test3	=> results: ['<divclass="container"><h1>AACACAAATCCA</h1>', '<br></div><divclass="container"><h1>AGGATGAGTA</h1>', '<br></div><divclass="container"><h1>CGCCGGGA</h1>']
+	=> actual: ['CAGGTTCGACAA']
+
+test5	=> results: ['<divclass="container"><h1>GGCAAGGCGACC</h1>', '<br></div><divclass="container"><h1>AAAGCTCACG</h1>', '<br></div><divclass="container"><h1>TCCCGTGAGT</h1>']
+	=> actual: ['CTACATCGAAGG']
+
+test4	=> results: ['<divclass="container"><h1>GGCAAGGCGACC</h1>', '<br></div><divclass="container"><h1>TCCCGTGAGT</h1>', '<br></div><divclass="container"><h1>AAAGCTCACG</h1>']
+	=> actual: ['GTATGACGTTTC']
+
+test6	=> results: ['<divclass="container"><h1>CGCGCCGTCCCG</h1>', '<br></div><divclass="container"><h1>ACACTGACTCTG</h1>', '<br></div><divclass="container"><h1>GGCCGACATA</h1>']
+	=> actual: ['AGCTGGCTTCAA']
+
+test5	=> results: ['<divclass="container"><h1>ACACTGACTCTG</h1>', '<br></div><divclass="container"><h1>CGCGCCGTCCCG</h1>', '<br></div><divclass="container"><h1>GGATTCGTGC</h1>']
+	=> actual: ['ACTCTGCATGAC']
+
+test6	=> results: ['<divclass="container"><h1>GTCGCGGGTCCG</h1>', '<br></div><divclass="container"><h1>TATAATGGCGTT</h1>', '<br></div><divclass="container"><h1>GCTCGGCATA</h1>']
+	=> actual: ['ATCTTTCGAGGC']
+
+test7	=> results: ['<divclass="container"><h1>GTCGCGGGTCCG</h1>', '<br></div><divclass="container"><h1>TATAATGGCGTT</h1>', '<br></div><divclass="container"><h1>GCTCGGCATA</h1>']
+	=> actual: ['GTAGCAACCGAC']
+
+test7	=> results: ['<divclass="container"><h1>CGGAGTGGCGGG</h1>', '<br></div><divclass="container"><h1>AGACTCAATCGC</h1>', '<br></div><divclass="container"><h1>TTCCTGGCAA</h1>']
+	=> actual: ['GAGACTCTTTTA']
+
+test8	=> results: ['<divclass="container"><h1>AGACTCAATCGC</h1>', '<br></div><divclass="container"><h1>CGGAGTGGCGGG</h1>', '<br></div><divclass="container"><h1>TACCGCAGTA</h1>']
+	=> actual: ['ACGCTGTACCAG']
+
+test8	=> results: ['<divclass="container"><h1>CTAGACCCCGCG</h1>', '<br></div><divclass="container"><h1>CGCCACAGTTTG</h1>', '<br></div><divclass="container"><h1>CGTGTCGGAG</h1>']
+	=> actual: ['ACGGGGTCTCCT']
+
+test9	=> results: ['<divclass="container"><h1>CTAGACCCCGCG</h1>', '<br></div><divclass="container"><h1>GTCCCAGTGA</h1>', '<br></div><divclass="container"><h1>CGGACCGCTA</h1>']
+	=> actual: ['TGTGACAGCGCT']
+
+test9	=> results: ['<divclass="container"><h1>CCGGTGTCGCGG</h1>', '<br></div><divclass="container"><h1>AGCCCGCCAG</h1>', '<br></div><divclass="container"><h1>GTAGAATTGGCT</h1>']
+	=> actual: ['CTCCAGTGCACG']
+
+test0	=> results: ['<divclass="container"><h1>CCGGTGTCGCGG</h1>', '<br></div><divclass="container"><h1>CCGATGCTTC</h1>', '<br></div><divclass="container"><h1>GCCAATTCCA</h1>']
+	=> actual: ['AACATTGGCGAC']
+
+test0	=> results: ['<divclass="container"><h1>CGCGCCAGCGGG</h1>', '<br></div><divclass="container"><h1>AAGCGCGGTG</h1>', '<br></div><divclass="container"><h1>GTCACATCTG</h1>']
+	=> actual: ['TCAAAGCCCCTG']
+
+test1	=> results: ['<divclass="container"><h1>GCGTGCTTCGCG</h1>', '<br></div><divclass="container"><h1>TAGGATAGCTTG</h1>', '<br></div><divclass="container"><h1>TGAGAACACC</h1>']
+	=> actual: ['AGATGTCACGGG']
+
+test1	=> results: ['<divclass="container"><h1>TGGTCGCTCCGC</h1>', '<br></div><divclass="container"><h1>TCATCCTAATGT</h1>', '<br></div><divclass="container"><h1>ACATGGAGGG</h1>']
+	=> actual: ['TCACAGGAGGGG']
+
+test2	=> results: ['<divclass="container"><h1>CGGATCTAGTGA</h1>', '<br></div><divclass="container"><h1>CACTAGATCC</h1>', '<br></div><divclass="container"><h1>CCTCAGTATT</h1>']
+	=> actual: ['TAATTCTCATAG']
+
+test2	=> results: ['<divclass="container"><h1>CGCGAGCATGCG</h1>', '<br></div><divclass="container"><h1>GAATGCGTCAAC</h1>', '<br></div><divclass="container"><h1>GCACAGTTTC</h1>']
+	=> actual: ['TTGTTGCTAACA']
+
+test3	=> results: ['<divclass="container"><h1>AATGGGTCCTAA</h1>', '<br></div><divclass="container"><h1>CCCGGAACCGAG</h1>', '<br></div><divclass="container"><h1>TGAATACACT</h1>']
+	=> actual: ['GCGTAACTCCCC']
+
+test3	=> results: ['<divclass="container"><h1>CACCCCCTGCGC</h1>', '<br></div><divclass="container"><h1>TCTCTTAGGACA</h1>', '<br></div><divclass="container"><h1>CCCGTAATCT</h1>']
+	=> actual: ['CAAAGGCGATAT']
+
+test4	=> results: ['<divclass="container"><h1>CGACTACATGAG</h1>', '<br></div><divclass="container"><h1>GCGTGGCCACGC</h1>', '<br></div><divclass="container"><h1>ACGTTAAACC</h1>']
+	=> actual: ['TGTCTTAGGACA']
+
+test4	=> results: ['<divclass="container"><h1>GCGCGTCTAGAC</h1>', '<br></div><divclass="container"><h1>ATTTGGGTCTCA</h1>', '<br></div><divclass="container"><h1>GTCGCCAGCA</h1>']
+	=> actual: ['TATCTACAGCAC']
+
+test5	=> results: ['<divclass="container"><h1>TGGGACTACCTT</h1>', '<br></div><divclass="container"><h1>CCCGGCTGCCCG</h1>', '<br></div><divclass="container"><h1>GGTAGTCCCA</h1>']
+	=> actual: ['ATTTGGGTCTCA']
+
+test5	=> results: ['<divclass="container"><h1>GACGACGCAGCC</h1>', '<br></div><divclass="container"><h1>GTGTTCTGAGCA</h1>', '<br></div><divclass="container"><h1>CCCGAGCACG</h1>']
+	=> actual: ['CGGGATTACCTT']
+
+test6	=> results: ['<divclass="container"><h1>GACTGTTACAAA</h1>', '<br></div><divclass="container"><h1>CGTCGCCGCGCG</h1>', '<br></div><divclass="container"><h1>GGAGAGCTGC</h1>']
+	=> actual: ['CTGTCATGTCAC']
+
+test6	=> results: ['<divclass="container"><h1>CTGATCCGGTCC</h1>', '<br></div><divclass="container"><h1>GTAACTGATC</h1>', '<br></div><divclass="container"><h1>ATCTTGCCCT</h1>']
+	=> actual: ['AGAATTATTTAG']
+
+test7	=> results: ['<divclass="container"><h1>CAACAAGTCTGT</h1>', '<br></div><divclass="container"><h1>GCGACGCAGCGC</h1>', '<br></div><divclass="container"><h1>AACGGCTTGA</h1>']
+	=> actual: ['CGTATCGCGTTG']
+
+test7	=> results: ['<divclass="container"><h1>CGCGCGGTGTCC</h1>', '<br></div><divclass="container"><h1>CGGCAACCGTTC</h1>', '<br></div><divclass="container"><h1>CCTTCTGGTA</h1>']
+	=> actual: ['GACCCTTATTCC']
+
+test8	=> results: ['<divclass="container"><h1>CGGGGAGTGGTC</h1>', '<br></div><divclass="container"><h1>TGCTCTCTGGAA</h1>', '<br></div><divclass="container"><h1>TCAGAGAGCA</h1>']
+	=> actual: ['CGGCAACCGTTC']
+
+test8	=> results: ['<divclass="container"><h1>CGCGTAGGCGCG</h1>', '<br></div><divclass="container"><h1>GTCTAAGCTCAG</h1>', '<br></div><divclass="container"><h1>AGCTCTTGCA</h1>']
+	=> actual: ['GTGCACACGTTA']
+
+test9	=> results: ['<divclass="container"><h1>CTGAGCGGATCC</h1>', '<br></div><divclass="container"><h1>CGGACCCGCGCA</h1>', '<br></div><divclass="container"><h1>TCGTCAGTCA</h1>']
+	=> actual: ['AGTCTAAGCTCT']
+
+test9	=> results: ['<divclass="container"><h1>CTGAGCGGATCC</h1>', '<br></div><divclass="container"><h1>CGGACCCGCGCA</h1>', '<br></div><divclass="container"><h1>TCGTCAGTCA</h1>']
+	=> actual: ['CTGCTACGAGCA']
+
+test0	=> results: ['<divclass="container"><h1>AGCCCTAATCCC</h1>', '<br></div><divclass="container"><h1>GTCGCCGGGGCG</h1>', '<br></div><divclass="container"><h1>GATTACGGCT</h1>']
+	=> actual: ['CATGCGGTCCTT']
+
+test1	=> results: ['<divclass="container"><h1>GCACGGACACCC</h1>', '<br></div><divclass="container"><h1>CGGGGATGCGCG</h1>', '<br></div><divclass="container"><h1>GTGCCCAGAT</h1>']
+	=> actual: ['ACATGGCATAAC']
+
+test2	=> results: ['<divclass="container"><h1>GACTAATTATGA</h1>', '<br></div><divclass="container"><h1>GACGGTGGGGTC</h1>', '<br></div><divclass="container"><h1>CTCAGGGACT</h1>']
+	=> actual: ['CTCTTGTTAGCA']
+
+test3	=> results: ['<divclass="container"><h1>CGGTGGGCACCT</h1>', '<br></div><divclass="container"><h1>CGCACGATCCCG</h1>', '<br></div><divclass="container"><h1>ACCCGACGAA</h1>']
+	=> actual: ['CGTTTTACCCCC']
+
+test4	=> results: ['<divclass="container"><h1>TAGACCGGATAT</h1>', '<br></div><divclass="container"><h1>CCCCCACTCGCG</h1>', '<br></div><divclass="container"><h1>ACAGCGCAGA</h1>']
+	=> actual: ['GAGTCTTTCGCC']
+
+test5	=> results: ['<divclass="container"><h1>CGATCTTGGACC</h1>', '<br></div><divclass="container"><h1>CGACTAGTCGCG</h1>', '<br></div><divclass="container"><h1>GAAATCGCCC</h1>']
+	=> actual: ['GTATTATCGATC']
+
+test6	=> results: ['<divclass="container"><h1>CCGGAATAAACG</h1>', '<br></div><divclass="container"><h1>GCGCAAGACCGG</h1>', '<br></div><divclass="container"><h1>CGGGTCAAAT</h1>']
+	=> actual: ['ACATGTTATACC']
+
+test7	=> results: ['<divclass="container"><h1>GACCGGTCGCGC</h1>', '<br></div><divclass="container"><h1>TAGCGACTGCAC</h1>', '<br></div><divclass="container"><h1>CGCAGGATCA</h1>']
+	=> actual: ['CAGTGGATCAAC']
+
+test8	=> results: ['<divclass="container"><h1>CTCTGCTAGCAT</h1>', '<br></div><divclass="container"><h1>GGGGAGTCCTGG</h1>', '<br></div><divclass="container"><h1>ATCGCCGACA</h1>']
+	=> actual: ['CGCAGGTAGCAA']
+
+test9	=> results: ['<divclass="container"><h1>GCGCGGGCTAGT</h1>', '<br></div><divclass="container"><h1>AACACTTCTTTA</h1>', '<br></div><divclass="container"><h1>GAGTACTGCT</h1>']
+	=> actual: ['AGCGGTATACGG']
+

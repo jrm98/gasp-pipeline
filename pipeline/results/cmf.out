@@ -1,0 +1,12 @@
+WARNING: w > 8 may be computationally infeasible
+t-score for difference of CG content is -5.24032, with p1 = 0.334345 and p2 = 0.374984
+total w-mer count in grp1 is 9054
+total w-mer count in grp2 is 46846
+done finding all 12-mers in group 1
+done finding all 12-mers in group 2
+begin seeding
+0.100011
+0.200022
+0.300033
+0.400044
+0.500055

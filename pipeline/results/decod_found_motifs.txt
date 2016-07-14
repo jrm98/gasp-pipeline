@@ -1,0 +1,42 @@
+#Programming running parameters:
+#Version = DECOD V1.01 (2011.10.24)
+#Positive sequence file = data/sp.fasta
+#Negative sequence file = data/n_genes.fasta
+#Motif width = 14
+#Number of motifs to search for = 1
+#Motif cardinality = 5
+#Number of iteration = 5
+#Use speedup calculation = true
+#Check both strands = true
+#Ignore repeats = true
+#Upper limit on k-mer count per sequence = 2
+#Assumed motif occurrence frequencies (per sequence): 1.0
+>Motif1
+A [0.2000 0.2000 0.2000 0.0000 0.6000 0.6000 0.4000 0.2000 0.2000 0.0000 0.0000 0.6000 0.6000 0.4000]
+C [0.2000 0.0000 0.0000 0.4000 0.0000 0.2000 0.6000 0.2000 0.0000 0.0000 0.4000 0.4000 0.4000 0.4000]
+G [0.2000 0.4000 0.2000 0.0000 0.2000 0.2000 0.0000 0.2000 0.0000 0.4000 0.4000 0.0000 0.0000 0.0000]
+T [0.4000 0.4000 0.6000 0.6000 0.2000 0.0000 0.0000 0.4000 0.8000 0.6000 0.2000 0.0000 0.0000 0.2000]
+#Score = 0.0877877217740255
+#Time = 20.362seconds
+
+#Motif instances in positive sequences: 
+>Sp_bub3_upstream/SPAC23H3.08c/I:2507594-2507912|revcom	182	AGTCAACTTTGACA	8.0143
+>Sp_mph1_upstream/SPBC106.01/II:373550-373691|revcom	126	GGTCGCCTTGCCCT	8.3357
+
+#Motif instances in negative sequences:
+>gi|745755190:c2283720-2283021 Schizosaccharomyces japonicus yFS275 unplaced genomic scaffold supercont5.2, whole genome shotgun sequence	184	TGTTAACTTTCCAA	8.5066
+>gi|891581041:1905181-1905880 Schizosaccharomyces octosporus yFS286 unplaced genomic scaffold supercont6.1, whole genome shotgun sequence|revcom	139	GTGTAACTTTCAAT	6.5668
+>gi|891605090:296339-297038 Schizosaccharomyces cryophilus OY26 unplaced genomic scaffold supercont4.9, whole genome shotgun sequence|revcom	467	TTATAACGTTCAAA	6.7076
+>gi|568815594:c120059422-120058722 Homo sapiens chromosome 4, GRCh38.p2 Primary Assembly	529	ATTTAACCTTCACT	6.5668
+>gi|891605086:c262612-261912 Schizosaccharomyces cryophilus OY26 unplaced genomic scaffold supercont4.5, whole genome shotgun sequence|revcom	115	TTGTGACGTTCAAA	6.6830
+>gi|162312348:3295196-3295895 Schizosaccharomyces pombe 972h- chromosome II, complete sequence|revcom	64	CGTTACCTTGGCAT	7.3051
+>gi|671162316:5283284-5283983 Drosophila melanogaster chromosome 2L|revcom	178	GAGCAACTTTCCAA	6.7993
+>gi|671162316:5283284-5283983 Drosophila melanogaster chromosome 2L|revcom	374	CGTCGACTTTGACT	7.3051
+>gi|745755189:c2023411-2022711 Schizosaccharomyces japonicus yFS275 unplaced genomic scaffold supercont5.1, whole genome shotgun sequence	444	CGTTGGCTTTGCAA	7.3051
+>gi|671162122:17673829-17674528 Drosophila melanogaster chromosome 3R|revcom	290	TGTTAACTTTTAAT	6.5914
+>gi|568815592:80042528-80043227 Homo sapiens chromosome 6, GRCh38.p2 Primary Assembly	550	TATCAACATTCCAC	7.3297
+>gi|745755190:3030585-3031284 Schizosaccharomyces japonicus yFS275 unplaced genomic scaffold supercont5.2, whole genome shotgun sequence	615	AGGCACCTTTCCAC	7.4214
+>gi|891581041:61486-62185 Schizosaccharomyces octosporus yFS286 unplaced genomic scaffold supercont6.1, whole genome shotgun sequence|revcom	1	TGTCTACCTTGACA	7.4460
+
+
+

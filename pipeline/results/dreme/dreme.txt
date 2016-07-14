@@ -1,0 +1,36 @@
+# DREME 4.11.1
+#     command: dreme -e 0.5 -oc results/dreme -p data/s_pombe-P.fasta
+#   positives: 7 from data/s_pombe-P.fasta (Thu Mar 24 14:48:53 EDT 2016)
+#   negatives: 7 from shuffled positives
+#        host: sassafras.rlogin
+#        when: Tue Apr 05 17:28:42 EDT 2016
+
+MEME version 4.11.1
+
+ALPHABET "DNA" DNA-LIKE
+A "Adenine" CC0000 ~ T "Thymine" 008000
+C "Cytosine" 0000CC ~ G "Guanine" FFB300
+N "Any base" = ACGT
+X = ACGT
+. = ACGT
+V "Not T" = ACG
+H "Not G" = ACT
+D "Not C" = AGT
+B "Not A" = CGT
+M "Amino" = AC
+R "Purine" = AG
+W "Weak" = AT
+S "Strong" = CG
+Y "Pyrimidine" = CT
+K "Keto" = GT
+U = T
+END ALPHABET
+
+strands: + -
+
+Background letter frequencies (from dataset):
+A 0.314 C 0.159 G 0.173 T 0.354
+
+
+# Stopping reason: E-value threshold exceeded
+#    Running time: 0.75 seconds
